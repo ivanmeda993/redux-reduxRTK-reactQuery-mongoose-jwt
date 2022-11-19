@@ -1,0 +1,7 @@
+{
+  "eslint.execArgv": null,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
